@@ -1,6 +1,6 @@
 # Spring Boot Learning Lab 🚀
 
-Welcome to my personal laboratory where I document my journey mastering the **Spring Boot** ecosystem.
+Welcome to my personal laboratory where I document my journey mastering the **Spring** framework and **Spring Boot**.
 
 ## 📂 Project Roadmap
 
