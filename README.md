@@ -7,6 +7,7 @@ Welcome to my personal laboratory where I document my journey mastering the **Sp
 | Lab # | Project Name | Key Concepts Covered |
 | :--- | :--- | :--- |
 | **01** | `springfs-intro` | REST Controllers, Dependency Injection, Mockito & MockMvc Testing, Spring Data JPA, H2 Database, and CRUD Operations |
+| **02** | `di-example` | Dependency Injection, Dependency Inversion Principle, Stereotype Annotations, Java Configuration, XML Configuration |
 
 ---
 
