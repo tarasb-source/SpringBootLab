@@ -6,7 +6,6 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import tarasb.learn.sbdiexample.controllers.*;
 
-@ComponentScan(basePackages = {"tarasb.learn.sbdiexample", "tarasb.learn.pets"})
 @SpringBootApplication
 public class SbDiExampleApplication {
 
